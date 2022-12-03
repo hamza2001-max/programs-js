@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "ts-node-dev": "^2.0.0"
+  },
+  "name": "number_guessing_cli_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev --respawn src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
