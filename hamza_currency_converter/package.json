@@ -5,10 +5,13 @@
     "node-fetch": "^3.3.0",
     "ts-node-dev": "^2.0.0"
   },
-  "name": "currency_converter",
+  "type": "module",
+  "name": "hamza_currency_converter",
   "version": "1.0.0",
+  "bin": "./index.js",
   "main": "index.js",
   "devDependencies": {
+    "@types/inquirer": "^9.0.3",
     "@types/node": "^18.11.9"
   },
   "scripts": {

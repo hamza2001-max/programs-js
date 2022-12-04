@@ -1,6 +1,6 @@
-/atm/node_modules
+/hamza_atm/node_modules
 /cli_ts_calculator/node_modules
-/currency_converter/node_modules
-/number_guessing_cli_game/node_modules
-/todo_list/node_modules
-/word_counter/node_modules
+/hamza_currency_converter/node_modules
+/hamza_todo_list/node_modules
+/hamza_number_guessing_game/node_modules
+/hamza_word_counter/node_modules

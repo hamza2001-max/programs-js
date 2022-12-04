@@ -1,4 +1,5 @@
-const inquirer = require("inquirer");
+#! /usr/bin/env node
+import inquirer from "inquirer";
 const USDConvert = [1, 0.83, 225, 7.2];
 const PoundConvert = [1.21, 1, 272.3, 8.7];
 const PKRConvert = [0.004, 0.003, 1, 0.032];
