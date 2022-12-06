@@ -1,4 +1,5 @@
-const inquirer = require("inquirer");
+#! /usr/bin/env node
+import inquirer from "inquirer";
 let questions = [
   {
     type: "input",

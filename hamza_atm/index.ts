@@ -1,4 +1,5 @@
-const inquirer = require("inquirer");
+#! /usr/bin/env node
+import inquirer from "inquirer";
 let idArray = [123, 124, 125, 126];
 let questions = [
   {
@@ -9,7 +10,7 @@ let questions = [
   {
     type: "password",
     name: "password",
-    message: "Enter your password: ",
+    message: "Enter your password: [hamza]",
   },
 ];
 

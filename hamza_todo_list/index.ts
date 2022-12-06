@@ -1,10 +1,11 @@
-const inquirer = require('inquirer');
+#! /usr/bin/env node
+import inquirer from 'inquirer';
 let questions = [
     {
         type: 'checkbox',
         name: 'todo',
         choices: ['1.do dishes', '2.wash clothes', '3. study'],
-        message: 'Complete your todos [press space to mark a task complete]:'
+        message: 'Complete your todos:'
     }
 ];
 interface todoInterface {

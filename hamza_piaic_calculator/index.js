@@ -1,7 +1,4 @@
 // #! /usr/bin/env node
-// const inquirer =
-// import inquirer from "inquirer";
-// import { inquirer } from "inquirer";
 import inquirer from "inquirer";
 let question = [
     {
