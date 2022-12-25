@@ -1,0 +1,21 @@
+{
+  "name": "hamza_countdown_timer",
+  "version": "2.0.0",
+  "type": "module",
+  "bin": "./index.js",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.17"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
